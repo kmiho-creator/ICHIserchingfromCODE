@@ -1,0 +1,5 @@
+{
+  "name": "ICHI Code Explorer",
+  "description": "A professional tool for reverse-looking up and decoding WHO International Classification of Health Interventions (ICHI) codes, supporting both stem and extension components.",
+  "requestFramePermissions": []
+}
